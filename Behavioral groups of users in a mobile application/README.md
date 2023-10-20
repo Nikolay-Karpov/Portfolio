@@ -13,5 +13,5 @@
 ## Используемые библиотеки
 Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy
 
-## [Выводы](https://disk.yandex.ru/i/d6zFr5xULztimA)
+## [Выводы]([https://disk.yandex.ru/i/d6zFr5xULztimA](https://github.com/Nikolay-Karpov/Portfolio/blob/main/Behavioral%20groups%20of%20users%20in%20a%20mobile%20application/Презентация%20.pdf)https://github.com/Nikolay-Karpov/Portfolio/blob/main/Behavioral%20groups%20of%20users%20in%20a%20mobile%20application/Презентация%20.pdf)
 ## [Дашборд](https://public.tableau.com/app/profile/nikolay.karpov/viz/mobile_apps/Dashboard1?publish=yes)
